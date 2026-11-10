@@ -26,8 +26,8 @@ The main objectives of this course are to:
 
 | Unit | Topic | Status |
 |------|-------|--------|
-| 0 | Welcome to the Course | Not Started |
-| 1 | Introduction to Deep Reinforcement Learning | Not Started |
+| 0 | Welcome to the Course | Completed |
+| 1 | Introduction to Deep Reinforcement Learning | Completed |
 | 2 | Q-Learning | Not Started |
 | 3 | Deep Q-Learning | Not Started |
 | 4 | Policy Gradient Methods | Not Started |
