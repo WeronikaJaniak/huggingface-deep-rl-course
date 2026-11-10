@@ -36,6 +36,12 @@ The agent receives observations describing its position, velocity, orientation, 
 | Training Platform | Google Colab |
 | Training Timesteps | 1,000,000 |
 
+The complete PPO implementation, including model configuration,
+training, evaluation, and experimental results, is available
+in the accompanying Jupyter notebook.
+
+**[View PPO LunarLander-v2 Notebook](Unit1_PPO_LunarLander_v2_Showcase.ipynb)**
+
 ### Evaluation Results
 
 The trained agent was evaluated using the mean reward and standard deviation across evaluation episodes.
